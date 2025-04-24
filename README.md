@@ -114,6 +114,6 @@ O projeto está no **mês 4 de 6**. Os protótipos **Sun Block** e **Loop Grid**
 - **Willian – ETEC**  
 - **Kevin Araújo**  
 - **Carlos Alves**  
-- **Khaique**  
+- **Kahique**  
 - **Tainara**  
 - **José Victor**
